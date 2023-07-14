@@ -1,16 +1,22 @@
-### Hi there 👋
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!--
-**tahzeer/tahzeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/tahzeer/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey there 👋
+
+
+
+### 🔭 Expertise
+
+- Languages: C/C++, HTML, CSS, JavaScript, Python, Bash, Git, LaTeX
+    
+
+### 📙 I’m currently learning 
+
+- Astro (JavaScript Framework)
+
+### 📫 How to reach me: 
+- LinkedIn: [@tahzeer](https://www.linkedin.com/in/tahzeer/)
+- Resume: [Tahzeer Ashraf](#)
