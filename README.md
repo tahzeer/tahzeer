@@ -10,12 +10,14 @@
 
 ### 🔭 Expertise
 
-- Languages: C/C++, HTML, CSS, JavaScript, Python, Bash, Git, LaTeX
+- Languages: C/C++, HTML, CSS, JavaScript, Python, MATLAB, Bash, Git
+- Frameworks: 
+- Software Tools: Figma, Adobe CS, Webflow, Framer, Firebase, Supabase, LaTeX
     
 
 ### 📙 I’m currently learning 
 
-- Astro (JavaScript Framework)
+- Next JS
 
 ### 📫 How to reach me: 
 - LinkedIn: [@tahzeer](https://www.linkedin.com/in/tahzeer/)
