@@ -1,18 +1,20 @@
 ### Hey there 👋
 
-
+working on it...
 
 ### 🔭 Expertise
 
 - Languages: C/C++, HTML, CSS, JavaScript, Python, MATLAB, Bash, Git
-- Frameworks: 
-- Software Tools: Figma, Adobe CS, Webflow, Framer, Firebase, Supabase, LaTeX
-    
+- Frameworks: NumPy, Scipy, Matplotlib, Seaborn, Pandas, SciKit, Streamlit, Bootstrap, Tailwind, React
+- Software Tools: Figma, Adobe CS, Webflow, Framer, LaTeX
 
 ### 📙 I’m currently learning 
 
 - Next JS
+- Supabase (PostgreSQL)
 
-### 📫 How to reach me: 
-- LinkedIn: [@tahzeer](https://www.linkedin.com/in/tahzeer/)
+### 🔗 Links 
 - Resume: [Tahzeer Ashraf](#)
+- LinkedIn: [@tahzeer](https://www.linkedin.com/in/tahzeer/)
+- Leetcode: [@tahzeer](https://www.leetcode.com/tahzeer/)
+- Codepen: [@tahzeer](https://codepen.io/tahzeer/)
