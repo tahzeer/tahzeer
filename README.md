@@ -18,3 +18,4 @@ working on it...
 - LinkedIn: [@tahzeer](https://www.linkedin.com/in/tahzeer/)
 - Leetcode: [@tahzeer](https://www.leetcode.com/tahzeer/)
 - Codepen: [@tahzeer](https://codepen.io/tahzeer/)
+- Tableau Public: [@tahzeer](https://public.tableau.com/app/profile/tahzeer)
