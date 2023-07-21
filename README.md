@@ -4,7 +4,7 @@ working on it...
 
 ### 🔭 Expertise
 
-- Languages: C/C++, HTML, CSS, JavaScript, Python, MATLAB, Bash, Git
+- Languages: C/C++, HTML, CSS, JavaScript, Python, MySQL, MATLAB, Bash, Git
 - Frameworks: NumPy, Scipy, Matplotlib, Seaborn, Pandas, SciKit, Streamlit, Bootstrap, Tailwind, React
 - Software Tools: Figma, Adobe CS, Webflow, Framer, LaTeX
 
