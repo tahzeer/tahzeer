@@ -4,8 +4,9 @@ working on it...
 
 ### 🔭 Expertise
 
-- Languages: C/C++, HTML, CSS, JavaScript, Python, MySQL, MATLAB, Bash, Git
-- Frameworks: NumPy, Scipy, Matplotlib, Seaborn, Pandas, SciKit, Streamlit, Bootstrap, Tailwind, React
+- Programming: C/C++, Python, MATLAB, Bash, Git
+- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Redux, Vite, Vercel
+- Frameworks: NumPy, Scipy, Matplotlib, Seaborn, Pandas, SciKit, Streamlit
 - Software Tools: Figma, Adobe CS, Webflow, Framer, LaTeX
 
 ### 📙 I’m currently learning 
