@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-working on it...
+I am Tahzeer Ashraf, currently a Senior undergrad at Indian Institute of Technology (IIT) Goa.
 
 ### 🔭 Expertise
 
