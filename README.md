@@ -5,14 +5,13 @@ I am Tahzeer Ashraf, currently a Senior undergrad at Indian Institute of Technol
 ### 🔭 Expertise
 
 - Programming: C/C++, Python, MATLAB, Fortran, Bash, Git
-- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Redux, Vite, Vercel
+- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Redux
 - Frameworks: NumPy, Scipy, Matplotlib, Seaborn, Pandas, SciKit, Streamlit
 - Software Tools: Figma, Adobe CS, Webflow, Framer, LaTeX, Tableau, PowerBI
 
 ### 📙 I’m currently learning 
 
-- Zustand
-- Next JS
+- React Router
 - Supabase (PostgreSQL)
 
 ### 🔗 Links 
