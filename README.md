@@ -17,6 +17,6 @@ I am Tahzeer Ashraf, currently a Senior undergrad at Indian Institute of Technol
 
 ### 🔗 Links 
 - Resume: [Tahzeer Ashraf](#)
-- LinkedIn: [@tahzeer](https://www.linkedin.com/in/tahzeer/)
+- LinkedIn: [/in/tahzeer](https://www.linkedin.com/in/tahzeer/)
 - Leetcode: [@tahzeer](https://www.leetcode.com/tahzeer/)
 - Tableau: [@tahzeer](https://public.tableau.com/app/profile/tahzeer)
