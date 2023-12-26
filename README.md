@@ -19,3 +19,4 @@ I am Tahzeer Ashraf, currently a Senior Undergraduate at the Indian Institute of
 - LinkedIn: [/in/tahzeer](https://www.linkedin.com/in/tahzeer/)
 - Leetcode: [@tahzeer](https://www.leetcode.com/tahzeer/)
 - Tableau: [@tahzeer](https://public.tableau.com/app/profile/tahzeer)
+- Medium Blog: [@tahzeer](https://tahzeer.medium.com)
