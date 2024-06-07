@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I am Tahzeer Ashraf, currently a Senior Undergraduate at the Indian Institute of Technology Goa. Passionate about the intersection of Software and Finance, I bring a diverse skill set encompassing proficency in programming languages such as C++, Python, and SQL, along with expertise in software developement and data science. I am a highly driven individual with a knack for analysing and learning new stuff. I would surely love to colaborate on projects if you reach out to me through any of the links below!
+I am Tahzeer Ashraf, currently a Software Engineer based in Bangalore. Passionate about the intersection of Software and Finance, I bring a diverse skill set encompassing proficency in programming languages such as C++, Python, and SQL, along with expertise in software developement and data science. I am a highly driven individual with a knack for analysing and learning new stuff. I would surely love to colaborate on projects if you reach out to me through any of the links below!
 
 ### 🔭 Expertise
 
@@ -11,7 +11,8 @@ I am Tahzeer Ashraf, currently a Senior Undergraduate at the Indian Institute of
 
 ### 📙 I’m currently learning 
 
-- React Router
+- Odoo
+- FastAPI
 - Supabase (PostgreSQL)
 
 ### 🔗 Links 
