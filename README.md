@@ -1,18 +1,18 @@
 ### Hey there 👋
 
-I am Tahzeer Ashraf, currently a Software Engineer based in Bangalore. Passionate about the intersection of Software and Finance. I would surely love to colaborate on projects if you reach out to me through any of the links below!
+I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related. Reachout to me throught the links below to talk about colaborative projects, fintech, startups, football or cats!
 
 ### 🔭 Expertise
 
-- Programming: C/C++, Python, MATLAB, Fortran, Bash, Git
+- Programming: C/C++, Python, SQL, MATLAB, Fortran, Git
 - Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Redux, Django
-- Software Tools: Figma, Adobe CS, Webflow, Framer, LaTeX, Tableau, PowerBI
+- Software Tools: Figma, Adobe CS, Webflow, LaTeX, Tableau, PowerBI
 
 ### 📙 I’m currently learning 
 
 - Odoo
 - FastAPI
-- Supabase (PostgreSQL)
+- PostgreSQL (Supabase)
 
 ### 🔗 Links 
 - Resume: [Tahzeer Ashraf](#)
