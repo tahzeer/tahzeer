@@ -18,5 +18,7 @@ I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've compl
 - Resume: [Tahzeer Ashraf](#)
 - LinkedIn: [/in/tahzeer](https://www.linkedin.com/in/tahzeer/)
 - Leetcode: [@tahzeer](https://www.leetcode.com/tahzeer/)
-- Tableau: [@tahzeer](https://public.tableau.com/app/profile/tahzeer)
+- Stack Exchange: [/tahzeer](https://stackexchange.com/users/29624049/tahzeer)
+- Tableau Public: [@tahzeer](https://public.tableau.com/app/profile/tahzeer)
 - Medium Blog: [@tahzeer](https://tahzeer.medium.com)
+[comment]: <> (This is a comment, it will not be included)
