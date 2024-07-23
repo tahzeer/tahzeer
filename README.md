@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related. Reachout to me throught the links below to talk about colaborative projects, fintech, startups, football or cats!
+I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related.
 
 ### 🔭 Expertise
 
