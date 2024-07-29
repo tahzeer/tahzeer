@@ -12,7 +12,7 @@ I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've compl
 
 - Odoo
 - FastAPI
-- PostgreSQL (Supabase)
+- PostgreSQL
 
 ### 🔗 Links 
 - Resume: [Tahzeer Ashraf](#)
