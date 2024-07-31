@@ -15,7 +15,6 @@ I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've compl
 - PostgreSQL
 
 ### 🔗 Links 
-- Resume: [Tahzeer Ashraf](#)
 - LinkedIn: [/in/tahzeer](https://www.linkedin.com/in/tahzeer/)
 - Leetcode: [@tahzeer](https://www.leetcode.com/tahzeer/)
 - Stack Exchange: [/tahzeer](https://stackexchange.com/users/29624049/tahzeer)
