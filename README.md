@@ -5,14 +5,13 @@ I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've compl
 ### 🔭 Expertise
 
 - Programming: C/C++, Python, SQL, MATLAB, Fortran, Git
-- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Django
+- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Django, FastAPI
 - Software Tools: Figma, Adobe CS, Webflow, LaTeX, Tableau
 
 ### 📙 I’m currently learning 
 
 - Odoo
-- FastAPI
-- PostgreSQL
+- Golang
 
 ### 🔗 Links 
 - LinkedIn: [/in/tahzeer](https://www.linkedin.com/in/tahzeer/)
