@@ -6,7 +6,7 @@ I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've compl
 
 - Programming: C/C++, Python, SQL, MATLAB, Fortran, Git
 - Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Django, FastAPI
-- Software Tools: Figma, Adobe CS, Webflow, LaTeX, Tableau
+- Software Tools: Adobe CC, Figma, Framer, Webflow, LaTeX, Tableau
 
 ### 📙 I’m currently learning 
 
