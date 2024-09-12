@@ -1,11 +1,9 @@
-### Hey there 👋
-
-I'm Tahzeer Ashraf, currently a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related.
+Hey! I'm Tahzeer Ashraf, a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related.
 
 ### 🔭 Expertise
 
 - Programming: C/C++, Python, SQL, MATLAB, Fortran, Git
-- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, Django, FastAPI
+- Development: HTML, CSS, MySQL, JavaScript, TailwindCSS, React, FastAPI
 - Software Tools: Adobe CC, Figma, Framer, Webflow, LaTeX, Tableau
 
 ### 📙 I’m currently learning 
