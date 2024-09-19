@@ -1,4 +1,4 @@
-Hey! I'm Tahzeer Ashraf, a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related.
+Hey! I'm Tahzeer, a Software Engineer based in Bangalore. I've completed by B.Tech. from IIT Goa and am passionate about everything software and finance related.
 
 ### 🔭 Expertise
 
