@@ -15,7 +15,7 @@
 <h1 align="center"></h1>
 
 ### ⚙️ tech stack
-- cpp · typescript · python^ · golang* · rust* · postgresql · bash 
+- cpp · typescript · python^ · golang* · rust* · postgresql^ · bash 
 - fastpai^ · celery^ · sqlalchemy^ · odoo (owl.js) · react^ · svelte* · drizzle · supabase · convex · puter.js
 - git^ · docker^ · k8s* · rancher* · linux^
 
