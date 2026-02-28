@@ -25,7 +25,7 @@
 </div>
 
 ### 💻 recent works
-- **[auth-session](https://github.com/tahzeer/auth-session)** — FastAPI-based authentication service with async SQLAlchemy, Redis-backed token controls, and Celery-powered email tasks. Yet another roll your own auth project to learn about token handeling, auth flows and best practices.
+- **[auth-service](https://github.com/tahzeer/auth-service)** — Lightweight but powerful FastAPI-based authentication service with async SQLAlchemy, Redis-backed token controls, and Celery-powered email tasks. Yet another roll your own auth project to learn about token handeling, auth flows and best practices.
 - **[fast-x-blog](https://github.com/tahzeer/fast-x-blog)** — FastAPI and Jinja2 templating based micro blogging site developed entirely in python. Built to try and learn using jinja2 (vanilla html, css, js) templates for rendering frontend via fastapi routes. [deployed on render](https://fast-x-blog.onrender.com)
 - **[geomancer](https://github.com/tahzeer/geomancer)** — React front end project using Puter.js for the backend. Built this to try out puters unique user-pays model. With puter handling the backend across all websites its integrated into, users maintain full control over their data, ai usage, and auth, while directly paying for only the services they use. [hosted on netlify](https://geomancer-fengshui.netlify.app/)
 
