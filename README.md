@@ -23,12 +23,10 @@
 
 ### 💻 projects
 - **[auth-session](https://github.com/tahzeer/auth-session)** — FastAPI-based authentication service with async SQLAlchemy, Redis-backed token controls, and Celery-powered email tasks. Yet another roll your own auth project to learn about token handeling, auth flows and best practices.
-- **[fast-x-blog](https://github.com/tahzeer/fast-x-blog)** — FastAPI and Jinja2 templating based micro blogging site developed entirely in python. Built to try and learn using jinja2 (vanilla html, css, js) templates for rendering frontend via fastapi routes and handeling/streaming basic crud opeartions using this stack.
+- **[fast-x-blog](https://github.com/tahzeer/fast-x-blog)** — FastAPI and Jinja2 templating based micro blogging site developed entirely in python. Built to try and learn using jinja2 (vanilla html, css, js) templates for rendering frontend via fastapi routes. [deployed on render](https://fast-x-blog.onrender.com)
 - **[geomancer](https://github.com/tahzeer/geomancer)** — React front end project using Puter.js for the backend. Built this to try out puters unique user-pays model. With puter handling the backend across all websites its integrated into, users maintain full control over their data, ai usage, and auth, while directly paying for only the services they use. [hosted on netlify](https://geomancer-fengshui.netlify.app/)
 
-
 <h1 align="center"></h1>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tahzeer&label=profile+views&color=blueviolet" alt="Profile views" />
   <a href="https://wakatime.com/@d6070393-4c7c-416c-9a8e-9cc248c7193b"><img src="https://wakatime.com/badge/user/d6070393-4c7c-416c-9a8e-9cc248c7193b.svg" alt="Total time coded since Jan 30 2025" /></a>
