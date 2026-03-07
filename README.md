@@ -1,10 +1,7 @@
 <h1 align="center">Tahzeer Ashraf</h1>
 
-<h3 align="center">software developer currently based in bengaluru, IN</h3>
-
 <div align="center">
   <div align="center">
-    <a href="https://www.linkedin.com/in/tahzeer/" target="_blank">linkedin</a> — 
     <a href="https://github.com/tahzeer">github</a> —
     <a href="https://leetcode.com/u/tahzeer/" target="_blank">leetcode</a> —
     <a href="mailto:tahzeer.work@gmail.com" target="_blank">contact me</a>
