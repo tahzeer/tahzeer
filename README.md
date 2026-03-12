@@ -1,6 +1,4 @@
-<h1 align="center">Tahzeer Ashraf</h1>
-
-<h3 align="center">software engineer based out of bengaluru/mumbai, IN</h3>
+<h3 align="center">Hi👋 I'm a software engineer based out of bengaluru/mumbai, IN</h3>
 
 <div align="center">
   <div align="center">
