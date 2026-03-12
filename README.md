@@ -14,7 +14,7 @@
 
 ### ⚙️ tech stack
 - cpp · typescript · python^ · golang · rust* · postgresql^ · bash 
-- fastpai^ · celery^ · sqlalchemy^ · odoo (owl.js) · react^ · svelte* · hono.js · drizzle · supabase · convex · puter.js
+- fastpai^ · celery^ · odoo (owl.js) · react^ · svelte* · hono.js · supabase · convex · puter.js
 - git^ · docker^ · k8s · rancher* · linux^
 
 <div align="right">
