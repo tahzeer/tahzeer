@@ -1,4 +1,5 @@
-<h3 align="center">Hi👋 I'm a software engineer based out of bengaluru/mumbai, IN</h3>
+<h1 align="center">Tahzeer Ashraf</h1>
+<h3 align="center">a software engineer based out of bengaluru/mumbai, IN</h3>
 
 <div align="center">
   <div align="center">
@@ -15,15 +16,15 @@
 ### ⚙️ tech stack
 - cpp · typescript · python^ · golang · rust* · postgresql^ · bash 
 - fastpai^ · celery^ · odoo (owl.js) · react^ · svelte* · hono.js · supabase · convex · puter.js
-- git^ · docker^ · k8s · rancher* · linux^
+- git^ · docker^ · otel · prometheus · grafana · k8s · rancher* · unix^
 
 <div align="right">
   <div>^<sup> high proficiency</sup></div>
-  <div>*<sup> currently exploring/learning</sup></div>
+  <div>*<sup> elementary proficiency</sup></div>
 </div>
 
-### 💻 recent works
-- **[auth-service](https://github.com/tahzeer/auth-service)** — Lightweight FastAPI-based authentication service with async SQLAlchemy, Redis-backed token controls, and Celery-powered email tasks. Yet another roll your own auth project to learn about token handeling, auth flows and best practices.
+### 💻 recent projects
+- **[auth-service](https://github.com/tahzeer/auth-service)** — Lightweight FastAPI-based authentication service with async SQLAlchemy, Redis-backed token controls, and Celery-powered email tasks. Lean auth project built to learn about token handeling, auth flows and best practices.
 - **[fast-x-blog](https://github.com/tahzeer/fast-x-blog)** — FastAPI and Jinja2 templating based micro blogging site developed entirely in python. Built to try and learn using jinja2 (vanilla html, css, js) templates for rendering frontend via fastapi routes. [deployed on render](https://fast-x-blog.onrender.com)
 - **[geomancer](https://github.com/tahzeer/geomancer)** — React front end project using Puter.js for the backend. Built this to try out puters unique user-pays model. With puter handling the backend across all websites its integrated into, users maintain full control over their data, ai usage, and auth, while directly paying for only the services they use. [hosted on netlify](https://geomancer-fengshui.netlify.app/)
 
